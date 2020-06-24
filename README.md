@@ -69,3 +69,4 @@ Package Licesne (if applicable) based on the package Manifest - `<licenseUrl>`
 ### Package not working?
 Provide the output of the following - `choco install PKGID --yes --verbose --debug`
 Send to the info and anything else you have to the GitHub Issues section: https://github.com/sbrown-tecracer/choco-packages/issues/new
+
